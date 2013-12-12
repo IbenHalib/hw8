@@ -13,6 +13,10 @@ use Doctrine\ORM\Query;
 use Knp\Bundle\PaginatorBundle\Pagination\SlidingPagination;
 use Knp\Component\Pager\Paginator;
 
+use Symfony\Component\EventDispatcher\EventDispatcher;
+//use Vadim\GuestBundle\Entity\Repository\Post;
+use Vadim\GuestBundle\Event\GoodSaveEvent;
+
 class DefaultController extends Controller
 {
     /**
@@ -37,7 +41,8 @@ class DefaultController extends Controller
             $numberPage,
             $this->container->getParameter('posts_on_page')
         );
-
+        $event = new GoodSaveEvent();
+        $event->setLastSave($posts);
         //var_dump($paginator);
         $form->handleRequest($request);
 
@@ -46,6 +51,12 @@ class DefaultController extends Controller
                 $em->persist($post);
                 $em->flush();
                // return $this->redirect($this->generateUrl('vadim_create'));
+
+
+            $eventDispatcher = $this->get('event_dispatcher');
+            $eventDispatcher->dispatch('va_site_bundle.good_finded', $event);
+
+
         }
 
         return $this->render('VadimGuestBundle:Default:index.html.twig', array(
