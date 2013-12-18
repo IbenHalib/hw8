@@ -8,9 +8,9 @@ vadim_create:
     defaults: { _controller: VadimGuestBundle:Default:create }
 
 vadim_delete:
-     pattern:  /delete/{id}
+     pattern:  /delete/{slug}
      defaults: { _controller: VadimGuestBundle:Default:delete }
 
 vadim_see:
-     pattern:  /see/{id}
+     pattern:  /see/{slug}
      defaults: { _controller: VadimGuestBundle:Default:see }

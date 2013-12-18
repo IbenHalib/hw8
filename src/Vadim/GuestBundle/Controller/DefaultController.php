@@ -53,8 +53,8 @@ class DefaultController extends Controller
                // return $this->redirect($this->generateUrl('vadim_create'));
 
 
-            $eventDispatcher = $this->get('event_dispatcher');
-            $eventDispatcher->dispatch('va_site_bundle.good_finded', $event);
+//            $eventDispatcher = $this->get('event_dispatcher');
+//            $eventDispatcher->dispatch('vadim_guest_bundle.good_save', $event);
 
 
         }
@@ -70,10 +70,10 @@ class DefaultController extends Controller
         return $this->render('VadimGuestBundle:Default:layout.html.twig');
     }
 
-    public function deleteAction($id)
+    public function deleteAction($slug)
     {
         $em = $this->getDoctrine()->getManager();
-        $post = $em->getRepository('VadimGuestBundle:Post')->find($id);
+        $post = $em->getRepository('VadimGuestBundle:Post')->findOneBySlug("$slug");
         $em->remove($post);
         $em->flush();
 
@@ -82,10 +82,10 @@ class DefaultController extends Controller
 
     }
 
-    public function seeAction($id)
+    public function seeAction($slug)
     {
         $em = $this->getDoctrine()->getManager();
-        $post = $em->getRepository('VadimGuestBundle:Post')->find($id);
+        $post = $em->getRepository('VadimGuestBundle:Post')->findOneBySlug("$slug");
 
 
         return $this->render('VadimGuestBundle:Default:see.html.twig', array(

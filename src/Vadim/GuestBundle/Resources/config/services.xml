@@ -24,9 +24,9 @@
         </service>
 
 
-        <service id="site_bundle.site_listener" class="vadim\GuestBundle\EventListener\SiteListener">
-            <tag name="kernel.event_listener" event="vadim_guest_bundle.good_save" method="onPostSave" />
-        </service>
+        <!--<service id="site_bundle.site_listener" class="vadim\GuestBundle\EventListener\SiteListener">-->
+            <!--<tag name="kernel.event_listener" event="vadim_guest_bundle.good_save" method="onPostSave" />-->
+        <!--</service>-->
     </services>
 
 </container>

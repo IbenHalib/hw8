@@ -17,6 +17,6 @@ class SiteListener {
     public function onPostSave(GoodSaveEvent $event)
     {
         $this->$event->getGoodSave();
-        
+
     }
 }

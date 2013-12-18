@@ -23,34 +23,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="DefaultController.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Vadim/GuestBundle/Controller/DefaultController.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="55" column="51" selection-start="1708" selection-end="1708" vertical-scroll-proportion="-15.333333" vertical-offset="576" max-vertical-offset="1800">
-              <folding>
-                <element signature="e#48#105#0" expanded="true" />
-                <marker date="1386852141000" expanded="true" signature="1004:1060" placeholder="SELECT t FRO..VadimGuestBundle..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="GoodSaveEvent.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Vadim/GuestBundle/Event/GoodSaveEvent.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="29" selection-start="310" selection-end="310" vertical-scroll-proportion="-13.333333" vertical-offset="0" max-vertical-offset="558">
+            <state line="20" column="29" selection-start="310" selection-end="310" vertical-scroll-proportion="-12.814815" vertical-offset="14" max-vertical-offset="558">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SiteListener.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="SiteListener.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Vadim/GuestBundle/EventListener/SiteListener.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="8" selection-start="377" selection-end="377" vertical-scroll-proportion="0.6286765" vertical-offset="0" max-vertical-offset="544">
-              <folding>
-                <element signature="e#54#96#0" expanded="true" />
-              </folding>
+            <state line="21" column="1" selection-start="377" selection-end="377" vertical-scroll-proportion="0.0" vertical-offset="378" max-vertical-offset="486">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -58,7 +44,7 @@
       <file leaf-file-name="services.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Vadim/GuestBundle/Resources/config/services.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="28" column="18" selection-start="1178" selection-end="1178" vertical-scroll-proportion="0.0" vertical-offset="36" max-vertical-offset="684">
+            <state line="11" column="17" selection-start="488" selection-end="488" vertical-scroll-proportion="0.0" vertical-offset="126" max-vertical-offset="684">
               <folding />
             </state>
           </provider>
@@ -67,7 +53,7 @@
       <file leaf-file-name="MyDbMails.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Vadim/GuestBundle/MyDbMails.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="33" column="33" selection-start="610" selection-end="623" vertical-scroll-proportion="-14.0" vertical-offset="216" max-vertical-offset="972">
+            <state line="41" column="44" selection-start="926" selection-end="926" vertical-scroll-proportion="-27.333334" vertical-offset="0" max-vertical-offset="972">
               <folding />
             </state>
           </provider>
@@ -82,41 +68,55 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="routing.yml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Vadim/GuestBundle/Resources/config/routing.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="20" selection-start="33" selection-end="33" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="396">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="config.yml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/config/config.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="59" column="0" selection-start="1610" selection-end="1610" vertical-scroll-proportion="0.0" vertical-offset="779" max-vertical-offset="1350">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="parameters.yml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/config/parameters.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="21" selection-start="543" selection-end="543" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="450">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name=".htaccess" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/.htaccess">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1044">
+            <state line="75" column="5" selection-start="1948" selection-end="1948" vertical-scroll-proportion="0.0" vertical-offset="329" max-vertical-offset="1476">
               <folding>
-                <marker date="1386188673000" expanded="true" signature="418:2250" placeholder="&lt;IfModule mod_rewrite.c&gt;" />
-                <marker date="1386188673000" expanded="true" signature="2252:2636" placeholder="&lt;IfModule !mod_rewrite.c&gt;" />
+                <marker date="1387404563000" expanded="true" signature="1083:1610" placeholder="doctrine:" />
+                <marker date="1387404563000" expanded="true" signature="1525:1610" placeholder="orm:" />
+                <marker date="1387404563000" expanded="true" signature="1809:1856" placeholder="braincrafted_bootstrap:" />
+                <marker date="1387404563000" expanded="true" signature="1857:1976" placeholder="stof_doctrine_extensions:" />
+                <marker date="1387404563000" expanded="true" signature="1889:1976" placeholder="orm:" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Post.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Vadim/GuestBundle/Entity/Post.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="72" column="13" selection-start="1298" selection-end="1305" vertical-scroll-proportion="-13.481482" vertical-offset="932" max-vertical-offset="2718">
+              <folding>
+                <element signature="e#44#76#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="see.html.twig" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Vadim/GuestBundle/Resources/views/Default/see.html.twig">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="8" column="0" selection-start="171" selection-end="171" vertical-scroll-proportion="0.2647059" vertical-offset="0" max-vertical-offset="544">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="parameters.yml.dist" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/config/parameters.yml.dist">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="8" column="27" selection-start="215" selection-end="215" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="378">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AppKernel.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/AppKernel.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="21" column="33" selection-start="956" selection-end="956" vertical-scroll-proportion="-9.481482" vertical-offset="104" max-vertical-offset="846">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -135,26 +135,26 @@
         <option value="$PROJECT_DIR$/web/.htaccess" />
         <option value="$PROJECT_DIR$/src/Vadim/GuestBundle/Form/Type/PostType.php" />
         <option value="$PROJECT_DIR$/src/Vadim/GuestBundle/Form/Type/ListType.php" />
-        <option value="$PROJECT_DIR$/src/Vadim/GuestBundle/Entity/Post.php" />
         <option value="$PROJECT_DIR$/src/Vadim/GuestBundle/DataFixtures/ORM/LoadPostData.php" />
         <option value="$PROJECT_DIR$/app/config/config_dev.yml" />
         <option value="$PROJECT_DIR$/app/cache/dev/assetic/routing.yml" />
         <option value="$PROJECT_DIR$/app/config/routing_dev.yml" />
         <option value="$PROJECT_DIR$/app/Resources/views/base.html.twig" />
-        <option value="$PROJECT_DIR$/src/Vadim/GuestBundle/Resources/config/routing.yml" />
-        <option value="$PROJECT_DIR$/app/AppKernel.php" />
-        <option value="$PROJECT_DIR$/app/config/config.yml" />
-        <option value="$PROJECT_DIR$/composer.json" />
-        <option value="$PROJECT_DIR$/src/Vadim/GuestBundle/Resources/views/Default/see.html.twig" />
         <option value="$PROJECT_DIR$/src/Vadim/GuestBundle/Resources/public/css/Guest.css" />
-        <option value="$PROJECT_DIR$/src/Vadim/GuestBundle/Resources/views/Default/index.html.twig" />
         <option value="$PROJECT_DIR$/src/Vadim/GuestBundle/Resources/views/Default/layout.html.twig" />
-        <option value="$PROJECT_DIR$/app/config/parameters.yml" />
         <option value="$PROJECT_DIR$/src/Vadim/GuestBundle/Event/GoodSaveEvent.php" />
         <option value="$PROJECT_DIR$/src/Vadim/GuestBundle/MyDbMails.php" />
-        <option value="$PROJECT_DIR$/src/Vadim/GuestBundle/Controller/DefaultController.php" />
-        <option value="$PROJECT_DIR$/src/Vadim/GuestBundle/Resources/config/services.xml" />
         <option value="$PROJECT_DIR$/src/Vadim/GuestBundle/EventListener/SiteListener.php" />
+        <option value="$PROJECT_DIR$/src/Vadim/GuestBundle/Resources/config/services.xml" />
+        <option value="$PROJECT_DIR$/composer.json" />
+        <option value="$PROJECT_DIR$/app/AppKernel.php" />
+        <option value="$PROJECT_DIR$/app/config/parameters.yml" />
+        <option value="$PROJECT_DIR$/app/config/config.yml" />
+        <option value="$PROJECT_DIR$/src/Vadim/GuestBundle/Resources/config/routing.yml" />
+        <option value="$PROJECT_DIR$/src/Vadim/GuestBundle/Controller/DefaultController.php" />
+        <option value="$PROJECT_DIR$/src/Vadim/GuestBundle/Resources/views/Default/index.html.twig" />
+        <option value="$PROJECT_DIR$/src/Vadim/GuestBundle/Entity/Post.php" />
+        <option value="$PROJECT_DIR$/src/Vadim/GuestBundle/Resources/views/Default/see.html.twig" />
       </list>
     </option>
   </component>
@@ -190,6 +190,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -205,64 +206,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="hw8" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="hw8" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="hw8" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="web" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="hw8" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="hw8" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="web" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bundles" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="vadimguest" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="hw8" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="hw8" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="web" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bundles" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -299,6 +242,40 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="GuestBundle" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hw8" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hw8" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Vadim" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GuestBundle" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Default" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -380,33 +357,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="EventListener" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="hw8" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="hw8" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Vadim" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="GuestBundle" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Event" />
+              <option name="myItemId" value="Entity" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -464,57 +415,16 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="hw8" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="hw8" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="config" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="hw8" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="hw8" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cache" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../hw7" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../hw" />
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
   <component name="RecentsManager">
@@ -553,7 +463,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="24" width="1366" height="720" extended-state="0" />
+    <frame x="0" y="24" width="1366" height="720" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -595,37 +505,10 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/composer.lock">
-      <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="33804">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/braincrafted/bootstrap-bundle/Braincrafted/Bundle/BootstrapBundle/DependencyInjection/BraincraftedBootstrapExtension.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3312">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/.htaccess">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="108">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/web/.htaccess">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1044">
-          <folding>
-            <marker date="1386188673000" expanded="true" signature="418:2250" placeholder="&lt;IfModule mod_rewrite.c&gt;" />
-            <marker date="1386188673000" expanded="true" signature="2252:2636" placeholder="&lt;IfModule !mod_rewrite.c&gt;" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -656,9 +539,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/vendor/braincrafted/bootstrap-bundle/Braincrafted/Bundle/BootstrapBundle/DependencyInjection/Configuration.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="54" column="43" selection-start="1831" selection-end="1831" vertical-scroll-proportion="0.0" vertical-offset="972" max-vertical-offset="1530">
-          <folding />
-        </state>
+        <state line="54" column="43" selection-start="1831" selection-end="1831" vertical-scroll-proportion="0.0" vertical-offset="972" max-vertical-offset="1530" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/composer.lock">
@@ -666,32 +547,23 @@
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="33804">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="33804" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/vendor/braincrafted/bootstrap-bundle/Braincrafted/Bundle/BootstrapBundle/DependencyInjection/BraincraftedBootstrapExtension.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3312">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3312" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/.htaccess">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="108">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="108" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/web/.htaccess">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1044">
-          <folding>
-            <marker date="1386188673000" expanded="true" signature="418:2250" placeholder="&lt;IfModule mod_rewrite.c&gt;" />
-            <marker date="1386188673000" expanded="true" signature="2252:2636" placeholder="&lt;IfModule !mod_rewrite.c&gt;" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -703,10 +575,7 @@
     <entry file="file://$PROJECT_DIR$/src/Vadim/GuestBundle/Controller/DefaultController.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="31" column="49" selection-start="967" selection-end="967" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1620">
-          <folding>
-            <element signature="e#48#105#0" expanded="true" />
-            <marker date="1386852141000" expanded="true" signature="1004:1060" placeholder="SELECT t FRO..VadimGuestBundle..." />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -727,13 +596,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/Resources/views/base.html.twig">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="7" selection-start="427" selection-end="427" vertical-scroll-proportion="0.0" vertical-offset="234" max-vertical-offset="342">
-          <folding>
-            <marker date="1386197717000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1386197717000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1386197717000" expanded="true" signature="-1:-1" placeholder="..." />
-          </folding>
-        </state>
+        <state line="13" column="7" selection-start="427" selection-end="427" vertical-scroll-proportion="0.0" vertical-offset="234" max-vertical-offset="342" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/composer.json">
@@ -763,31 +626,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/.htaccess">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="571">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/.htaccess">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1044">
-          <folding>
-            <marker date="1386188673000" expanded="true" signature="418:2250" placeholder="&lt;IfModule mod_rewrite.c&gt;" />
-            <marker date="1386188673000" expanded="true" signature="2252:2636" placeholder="&lt;IfModule !mod_rewrite.c&gt;" />
-          </folding>
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="571" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/vendor/braincrafted/bootstrap-bundle/Braincrafted/Bundle/BootstrapBundle/DependencyInjection/BraincraftedBootstrapExtension.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3132">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/AppKernel.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="10" selection-start="933" selection-end="933" vertical-scroll-proportion="-9.481482" vertical-offset="104" max-vertical-offset="828" />
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3132" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/composer.lock">
@@ -795,31 +639,12 @@
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="35244">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/composer.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="34" selection-start="951" selection-end="951" vertical-scroll-proportion="-16.0" vertical-offset="0" max-vertical-offset="1422" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/bundles/vadimguest/css/Guest.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="571" />
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="35244" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/vendor/braincrafted/bootstrap-bundle/Braincrafted/Bundle/BootstrapBundle/DependencyInjection/Configuration.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="54" column="43" selection-start="1831" selection-end="1831" vertical-scroll-proportion="0.0" vertical-offset="972" max-vertical-offset="1530">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Vadim/GuestBundle/Resources/views/Default/see.html.twig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="0" selection-start="288" selection-end="288" vertical-scroll-proportion="-8.0" vertical-offset="0" max-vertical-offset="360" />
+        <state line="54" column="43" selection-start="1831" selection-end="1831" vertical-scroll-proportion="0.0" vertical-offset="972" max-vertical-offset="1530" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Vadim/GuestBundle/Resources/translations/messages.fr.xlf">
@@ -832,66 +657,67 @@
         <state line="4" column="22" selection-start="65" selection-end="65" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="198" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Vadim/GuestBundle/Resources/views/Default/index.html.twig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="36" selection-start="276" selection-end="276" vertical-scroll-proportion="-7.3333335" vertical-offset="0" max-vertical-offset="936" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/Resources/views/base.html.twig">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="7" selection-start="427" selection-end="427" vertical-scroll-proportion="0.0" vertical-offset="234" max-vertical-offset="342">
-          <folding>
-            <marker date="1386197717000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1386197717000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1386197717000" expanded="true" signature="-1:-1" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Vadim/GuestBundle/Resources/views/Default/layout.html.twig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="0" selection-start="555" selection-end="555" vertical-scroll-proportion="0.5625" vertical-offset="0" max-vertical-offset="544" />
+        <state line="13" column="7" selection-start="427" selection-end="427" vertical-scroll-proportion="0.0" vertical-offset="234" max-vertical-offset="342" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/vendor/symfony/symfony/src/Symfony/Bundle/FrameworkBundle/Controller/Controller.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="251" column="34" selection-start="7713" selection-end="7713" vertical-scroll-proportion="0.0" vertical-offset="4518" max-vertical-offset="4680">
-          <folding />
-        </state>
+        <state line="251" column="34" selection-start="7713" selection-end="7713" vertical-scroll-proportion="0.0" vertical-offset="4518" max-vertical-offset="4680" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/vendor/symfony/symfony/src/Symfony/Component/DependencyInjection/ContainerInterface.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="84" column="20" selection-start="2444" selection-end="2444" vertical-scroll-proportion="0.0" vertical-offset="1512" max-vertical-offset="2952">
-          <folding />
-        </state>
+        <state line="84" column="20" selection-start="2444" selection-end="2444" vertical-scroll-proportion="0.0" vertical-offset="1512" max-vertical-offset="2952" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/vendor/symfony/symfony/src/Symfony/Component/Form/Form.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="967" column="20" selection-start="30671" selection-end="30671" vertical-scroll-proportion="0.0" vertical-offset="17406" max-vertical-offset="19134">
+        <state line="967" column="20" selection-start="30671" selection-end="30671" vertical-scroll-proportion="0.0" vertical-offset="17406" max-vertical-offset="19134" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Vadim/GuestBundle/Event/GoodSaveEvent.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="29" selection-start="310" selection-end="310" vertical-scroll-proportion="-12.814815" vertical-offset="14" max-vertical-offset="558">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/config/config.yml">
+    <entry file="file://$PROJECT_DIR$/src/Vadim/GuestBundle/EventListener/SiteListener.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="59" column="0" selection-start="1610" selection-end="1610" vertical-scroll-proportion="0.0" vertical-offset="779" max-vertical-offset="1350">
+        <state line="21" column="1" selection-start="377" selection-end="377" vertical-scroll-proportion="0.0" vertical-offset="378" max-vertical-offset="486">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/config/parameters.yml">
+    <entry file="file://$PROJECT_DIR$/web/.htaccess">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="21" selection-start="543" selection-end="543" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="450">
+        <state line="8" column="20" selection-start="463" selection-end="463" vertical-scroll-proportion="0.25218913" vertical-offset="0" max-vertical-offset="1044">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Vadim/GuestBundle/MyDbMails.php">
+    <entry file="file://$PROJECT_DIR$/web/bundles/vadimguest/css/Guest.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="33" column="33" selection-start="610" selection-end="623" vertical-scroll-proportion="-14.0" vertical-offset="216" max-vertical-offset="972">
+        <state line="5" column="2" selection-start="68" selection-end="68" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="198">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/parameters.yml.dist">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="27" selection-start="215" selection-end="215" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="378">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/jquery/jquery/jquery-1.10.2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="175752" max-vertical-offset="176310">
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -902,43 +728,99 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Vadim/GuestBundle/Controller/DefaultController.php">
+    <entry file="file://$PROJECT_DIR$/src/Vadim/GuestBundle/MyDbMails.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="55" column="51" selection-start="1708" selection-end="1708" vertical-scroll-proportion="-15.333333" vertical-offset="576" max-vertical-offset="1800">
-          <folding>
-            <element signature="e#48#105#0" expanded="true" />
-            <marker date="1386852141000" expanded="true" signature="1004:1060" placeholder="SELECT t FRO..VadimGuestBundle..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Vadim/GuestBundle/Resources/config/routing.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="20" selection-start="33" selection-end="33" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="396">
+        <state line="41" column="44" selection-start="926" selection-end="926" vertical-scroll-proportion="-27.333334" vertical-offset="0" max-vertical-offset="972">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Vadim/GuestBundle/Resources/config/services.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="18" selection-start="1178" selection-end="1178" vertical-scroll-proportion="0.0" vertical-offset="36" max-vertical-offset="684">
+        <state line="11" column="17" selection-start="488" selection-end="488" vertical-scroll-proportion="0.0" vertical-offset="126" max-vertical-offset="684">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Vadim/GuestBundle/Event/GoodSaveEvent.php">
+    <entry file="file://$PROJECT_DIR$/composer.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="29" selection-start="310" selection-end="310" vertical-scroll-proportion="-13.333333" vertical-offset="0" max-vertical-offset="558">
+        <state line="26" column="54" selection-start="1042" selection-end="1042" vertical-scroll-proportion="0.8602941" vertical-offset="0" max-vertical-offset="1440">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Vadim/GuestBundle/EventListener/SiteListener.php">
+    <entry file="file://$PROJECT_DIR$/app/AppKernel.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="8" selection-start="377" selection-end="377" vertical-scroll-proportion="0.6286765" vertical-offset="0" max-vertical-offset="544">
+        <state line="21" column="33" selection-start="956" selection-end="956" vertical-scroll-proportion="-9.481482" vertical-offset="104" max-vertical-offset="846">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="75" column="5" selection-start="1948" selection-end="1948" vertical-scroll-proportion="0.0" vertical-offset="329" max-vertical-offset="1476">
           <folding>
-            <element signature="e#54#96#0" expanded="true" />
+            <marker date="1387404563000" expanded="true" signature="1083:1610" placeholder="doctrine:" />
+            <marker date="1387404563000" expanded="true" signature="1525:1610" placeholder="orm:" />
+            <marker date="1387404563000" expanded="true" signature="1809:1856" placeholder="braincrafted_bootstrap:" />
+            <marker date="1387404563000" expanded="true" signature="1857:1976" placeholder="stof_doctrine_extensions:" />
+            <marker date="1387404563000" expanded="true" signature="1889:1976" placeholder="orm:" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/parameters.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="27" selection-start="256" selection-end="256" vertical-scroll-proportion="0.25218913" vertical-offset="0" max-vertical-offset="571">
+          <folding>
+            <marker date="1387398499000" expanded="true" signature="-1:-1" placeholder="parameters:" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Vadim/GuestBundle/Resources/config/routing.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="25" selection-start="343" selection-end="343" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="396">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Vadim/GuestBundle/Controller/DefaultController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="75" column="76" selection-start="2285" selection-end="2285" vertical-scroll-proportion="2.0514705" vertical-offset="0" max-vertical-offset="1566">
+          <folding>
+            <marker date="1387406475000" expanded="true" signature="-1:-1" placeholder="SELECT t FRO..VadimGuestBundle..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Vadim/GuestBundle/Resources/views/Default/index.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="30" selection-start="475" selection-end="475" vertical-scroll-proportion="-9.333333" vertical-offset="72" max-vertical-offset="990">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Vadim/GuestBundle/Entity/Post.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="72" column="13" selection-start="1298" selection-end="1305" vertical-scroll-proportion="-13.481482" vertical-offset="932" max-vertical-offset="2718">
+          <folding>
+            <element signature="e#44#76#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Vadim/GuestBundle/Resources/views/Default/layout.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="0" selection-start="555" selection-end="555" vertical-scroll-proportion="0.5625" vertical-offset="0" max-vertical-offset="544">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Vadim/GuestBundle/Resources/views/Default/see.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="0" selection-start="171" selection-end="171" vertical-scroll-proportion="0.2647059" vertical-offset="0" max-vertical-offset="544">
+          <folding />
         </state>
       </provider>
     </entry>

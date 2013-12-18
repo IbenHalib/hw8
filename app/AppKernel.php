@@ -19,6 +19,7 @@ class AppKernel extends Kernel
             new Vadim\GuestBundle\VadimGuestBundle(),
             new Knp\Bundle\PaginatorBundle\KnpPaginatorBundle(),
             new Doctrine\Bundle\FixturesBundle\DoctrineFixturesBundle(),
+            new Stof\DoctrineExtensionsBundle\StofDoctrineExtensionsBundle(),
             new \Braincrafted\Bundle\BootstrapBundle\BraincraftedBootstrapBundle()
 
 
