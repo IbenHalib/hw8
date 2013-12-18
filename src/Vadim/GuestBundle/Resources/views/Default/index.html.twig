@@ -11,19 +11,22 @@
          <div class="panel panel-default">
          <div class="panel-heading">
              <div class="pull-left">
-                 {{ post.name }} ({{ post.email }})
+                 {{ post.name }}
+                 <br> {{ post.slug }}
+                 <br> {{ post.email }}
              </div>
 
             <div class="panel-body">
              {{ post.post }}
              </div>
+
          </div>
          <ul class="nav">
              <li class="active">
-                 <a href="{{ path('vadim_delete', {'id': post.id}) }}"> {{ 'delete' }}
+                 <a href="{{ path('vadim_delete', {'slug': post.slug}) }}"> {{ 'delete' }}
                  </a>
              </li>
-             <li> <a href="{{ path('vadim_see', {'id': post.id}) }}"> {{ 'see' }}
+             <li> <a href="{{ path('vadim_see', {'slug': post.slug}) }}"> {{ 'see' }}
                  </a></li>
 
          </ul>

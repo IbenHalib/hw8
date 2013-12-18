@@ -67,3 +67,10 @@ swiftmailer:
 
 braincrafted_bootstrap:
     less_filter: none
+
+
+stof_doctrine_extensions:
+      orm:
+          default:
+              sluggable: true
+              timestampable: true

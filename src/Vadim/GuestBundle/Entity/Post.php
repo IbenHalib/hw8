@@ -4,6 +4,7 @@ namespace Vadim\GuestBundle\Entity;
 
 use Doctrine\ORM\Mapping as ORM;
 use Symfony\Component\Validator\Constraints as Assert;
+use Gedmo\Mapping\Annotation as Gedmo;
 
 
 /**
@@ -39,6 +40,14 @@ class Post
      * @Assert\NotBlank
      * @Assert\Email
      */
+
+    /**
+     * @Gedmo\Slug(fields={"name"})
+     * @ORM\Column(length=128, unique=true)
+     */
+    private $slug;
+
+
     protected $email;
 
     /**
@@ -53,6 +62,16 @@ class Post
     /**
      * @return mixed
      */
+
+
+    /**
+     * @var datetime $created
+     *
+     * @Gedmo\Timestampable(on="create")
+     * @ORM\Column(type="date")
+     */
+    private $created;
+
     public function getEmail()
     {
         return $this->email;
@@ -104,6 +123,22 @@ class Post
     public function getId()
     {
         return $this->id;
+    }
+
+    /**
+     * @return mixed
+     */
+    public function getSlug()
+    {
+        return $this->slug;
+    }
+
+    /**
+     * @return \Vadim\GuestBundle\Entity\datetime
+     */
+    public function getCreated()
+    {
+        return $this->created;
     }
 
 

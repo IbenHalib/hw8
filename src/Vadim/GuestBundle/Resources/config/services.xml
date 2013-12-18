@@ -7,12 +7,26 @@
 
     <parameters>
         <parameter key="vadim_guest.example.class">Vadim\GuestBundle\Form\Type\PostType</parameter>
+        <parameter key="vadim_home.example.class">Vadim\GuestBundle\MyDbMails</parameter>
+
     </parameters>
 
     <services>
         <service id="vadim_guest.example" class="%vadim_guest.example.class%">
             <tag name="form.type" alias="post" />
         </service>
+
+        <service id="vadim_guest_mailler.exampler" class="%vadim_home.example.class%">
+            <argument id="mailer" type="service" />
+            <call method="setDoctrine">
+                <argument id="doctrine" type="service" on-invalid="ignore" />
+            </call>
+        </service>
+
+
+        <!--<service id="site_bundle.site_listener" class="vadim\GuestBundle\EventListener\SiteListener">-->
+            <!--<tag name="kernel.event_listener" event="vadim_guest_bundle.good_save" method="onPostSave" />-->
+        <!--</service>-->
     </services>
 
 </container>
